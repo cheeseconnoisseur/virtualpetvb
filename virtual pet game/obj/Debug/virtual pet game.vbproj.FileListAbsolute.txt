@@ -1,0 +1,15 @@
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\bin\Debug\virtual pet game.exe.config
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\bin\Debug\virtual pet game.exe
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\bin\Debug\virtual pet game.pdb
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\bin\Debug\virtual pet game.xml
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual pet game.vbprojResolveAssemblyReference.cache
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual_pet_game.Form1.resources
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual_pet_game.Resources.resources
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual pet game.vbproj.GenerateResource.Cache
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual pet game.exe
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual pet game.xml
+c:\saved games\documents\visual studio 2015\Projects\virtual pet game\virtual pet game\obj\Debug\virtual pet game.pdb
+C:\Users\Arturo D\Desktop\gitt2t\virtualpetvb\virtual pet game\bin\Debug\virtual pet game.exe.config
+C:\Users\Arturo D\Desktop\gitt2t\virtualpetvb\virtual pet game\obj\Debug\virtual pet game.exe
+C:\Users\Arturo D\Desktop\gitt2t\virtualpetvb\virtual pet game\obj\Debug\virtual pet game.xml
+C:\Users\Arturo D\Desktop\gitt2t\virtualpetvb\virtual pet game\obj\Debug\virtual pet game.pdb
